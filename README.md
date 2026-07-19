@@ -16,7 +16,8 @@ I investigate alerts, hunt down phishing attempts, and dig through logs to find 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Shivshambhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivshambhukapase11&show_icons=true&theme=default&v=2)
+
 ### 📊 GitHub Stats
 ![Shivshambhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivshambhukapase11&show_icons=true&theme=default)
