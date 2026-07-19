@@ -14,10 +14,10 @@ I investigate alerts, hunt down phishing attempts, and dig through logs to find 
 
 ### 🛠️ Tools & Platforms
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F27?style=flat&logo=crowdstrike&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 📊 GitHub Stats
 ![Shivshambhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivshambhukapase11&show_icons=true&theme=default)
